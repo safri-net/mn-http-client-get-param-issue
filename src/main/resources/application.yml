@@ -1,0 +1,9 @@
+micronaut:
+  server:
+    port:
+      8080
+  application:
+    name: mn-http-client-get-param-issue
+#jackson:
+#  deserialization:
+#    read-unknown-enum-values-as-null: true
